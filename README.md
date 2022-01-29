@@ -1,4 +1,4 @@
-<img src = ".github/superman.png" width = "325px" align = "right">
+<img src = ".github/batman.png" width = "325px" align = "right">
 
 # Fala galera! Meu nome é Ricarth Lima 👩‍💻
 
